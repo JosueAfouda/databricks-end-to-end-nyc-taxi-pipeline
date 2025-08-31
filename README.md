@@ -1,5 +1,7 @@
 # NYC Yellow Taxi Analytics with Databricks
 
+[Regarder la vidéo du Projet](https://youtu.be/eNSqtSDjkl0)
+
 Bienvenue dans ce projet de **Data Engineering & Analytics** construit sur **Databricks**.
 L’objectif est de montrer comment mettre en place un pipeline **end-to-end** (Bronze → Silver → Gold) pour transformer, nettoyer et analyser les données des taxis jaunes de New York, puis les exposer dans un **dashboard interactif**.
 
