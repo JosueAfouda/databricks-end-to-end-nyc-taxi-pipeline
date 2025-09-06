@@ -84,4 +84,4 @@ Ce projet est un exemple de ma capacité à :
 
 ---
 
-👉 Si tu es recruteur ou data enthusiast, n’hésite pas à me contacter pour échanger autour de ce projet ou de futurs challenges.
+👉 Si tu es recruteur ou data enthusiast, n’hésite pas à me contacter pour échanger autour de ce projet ou de futurs challenges : afouda.josue@gmail.com
