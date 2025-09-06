@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="miniature_youtube" src="https://github.com/user-attachments/assets/bd32b5b7-fec3-4ebb-bb93-45f6458527ab" />
+
 # NYC Yellow Taxi Analytics with Databricks
 
 [Regarder la vidéo du Projet](https://youtu.be/eNSqtSDjkl0)
